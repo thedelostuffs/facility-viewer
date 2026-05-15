@@ -1,1046 +1,6 @@
 {
   "events": [
     {
-      "date": "2026-05-07",
-      "time": "06:30",
-      "duration": 45,
-      "room": "Parenting Center",
-      "event": "Body Pump",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "07:30",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Stability Ball Class",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "09:00",
-      "duration": 60,
-      "room": "Pool",
-      "event": "Senior Aqua Fitness",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "09:00",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Senior Yoga",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "09:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "Preschool Gross Motor",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "09:30",
-      "duration": 90,
-      "room": "2nd Floor Art Room",
-      "event": "Preschool Playgroup",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "10:00",
-      "duration": 60,
-      "room": "16th Street Conference Room",
-      "event": "Yiddish Reading Group",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "10:10",
-      "duration": 90,
-      "room": "Parenting Center",
-      "event": "Makin' Music with Ms. Michelle",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "11:00",
-      "duration": 60,
-      "room": "16th Street Conference Room",
-      "event": "Weekly Schedule Meeting",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "12:20",
-      "duration": 40,
-      "room": "Parenting Center",
-      "event": "Musical Infants",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "13:00",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Musical Infants Community Building",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "14:30",
-      "duration": 300,
-      "room": "16th Street Lobby",
-      "event": "JxJ '26: Opening Night Reception",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "15:00",
-      "duration": 60,
-      "room": "16th Street Conference Room",
-      "event": "Theater J Operations Meeting",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Pool",
-      "event": "After School Swim",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "15:00",
-      "duration": 180,
-      "room": "HAI Class Room/Kitchen",
-      "event": "After School Mad Science",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Kay Community Hall",
-      "event": "After School K & 1st grade",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Polinger Meeting Room",
-      "event": "After School Prek 4",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "After School 2nd-5th grade",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Parenting Center",
-      "event": "After School: Ballet",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "17:00",
-      "duration": 180,
-      "room": "Pool",
-      "event": "Lane 1 British Swim School",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "18:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "Brazilian Jiu Jitsu",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "18:00",
-      "duration": 45,
-      "room": "Parenting Center",
-      "event": "Work-It Circuit",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "19:00",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Restorative Yoga",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "19:30",
-      "duration": 105,
-      "room": "Goldman Theater",
-      "event": "JxJ' 26 : Once Upon My Mother",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-07",
-      "time": "21:30",
-      "duration": 75,
-      "room": "16th Street Lobby",
-      "event": "JxJ Post-film Coffee same",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "07:30",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Sunrise Hatha Yoga",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "09:00",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Senior Yoga",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "09:00",
-      "duration": 60,
-      "room": "Pool",
-      "event": "Senior Aqua Fitness",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "09:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "Preschool Gross Motor",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "09:00",
-      "duration": 75,
-      "room": "Cafritz Hall",
-      "event": "Shabbat Sing",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "09:15",
-      "duration": 90,
-      "room": "2nd Floor Art Room",
-      "event": "Getting Ready for Preschool",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "10:10",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Stroller Strides",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "11:00",
-      "duration": 45,
-      "room": "2nd Floor Art Room",
-      "event": "Art for Tots",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "12:00",
-      "duration": 180,
-      "room": "Q Street Lobby",
-      "event": "Mahjong",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "13:00",
-      "duration": 120,
-      "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Pool",
-      "event": "After School Swim",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:00",
-      "duration": 180,
-      "room": "HAI Class Room/Kitchen",
-      "event": "After School Art",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Classroom 10 - PS Art/Babysitting",
-      "event": "After School Lego Robotics",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:00",
-      "duration": 90,
-      "room": "Kay Community Hall",
-      "event": "After School K & 1st grade",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Polinger Meeting Room",
-      "event": "After School Prek 4",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "After School (2nd-5th)&(K-1st)",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "15:30",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Mat Pilates",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:00",
-      "duration": 150,
-      "room": "Kay Community Hall",
-      "event": "Bet Mish Shabbaton Dinner TH making",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "17:00",
-      "duration": 180,
-      "room": "Pool",
-      "event": "Lane 1 British Swim School",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "19:00",
-      "duration": 45,
-      "room": "Salzberg Family Library",
-      "event": "Bet Mish Pre-Shabbat Holding Space",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-08",
-      "time": "19:00",
-      "duration": 180,
-      "room": "Kay Community Hall",
-      "event": "Bet Mish Erev Shabbat Service",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "08:00",
-      "duration": 330,
-      "room": "Classroom 10 - PS Art/Babysitting",
-      "event": "Fitness Childcare",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "09:00",
-      "duration": 270,
-      "room": "Kay Community Hall",
-      "event": "Bet Mish Shabbat Morning Service",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "09:00",
-      "duration": 480,
-      "room": "Pool",
-      "event": "Kids Group Swim",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "09:30",
-      "duration": 55,
-      "room": "Parenting Center",
-      "event": "Total Body Strength",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "10:30",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Zumba",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "11:00",
-      "duration": 210,
-      "room": "Kay Community Hall",
-      "event": "Bet Mish Shabbaton Lunch",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "11:15",
-      "duration": 195,
-      "room": "Cafritz Hall",
-      "event": "Brazilian Jiu Jitsu",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "11:40",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Flow Yoga",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "11:45",
-      "duration": 150,
-      "room": "16th Street Lobby",
-      "event": "AED training & installation for grant",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "12:00",
-      "duration": 360,
-      "room": "HAI Class Room/Kitchen",
-      "event": "Feed the People",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "15:00",
-      "duration": 420,
-      "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "15:00",
-      "duration": 330,
-      "room": "Kay Community Hall",
-      "event": "JxJ '26 : Teen Film Contest Reception",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "17:00",
-      "duration": 90,
-      "room": "Cafritz Hall",
-      "event": "JxJ '26: Teen Film Contest",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "18:00",
-      "duration": 210,
-      "room": "Cafritz Hall",
-      "event": "JxJ '26: Never Alone",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "18:00",
-      "duration": 60,
-      "room": "16th Street Conference Room",
-      "event": "Janet Abrams",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-09",
-      "time": "19:30",
-      "duration": 135,
-      "room": "Goldman Theater",
-      "event": "JxJ '26 : The Sea + Q&A",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "08:00",
-      "duration": 330,
-      "room": "Classroom 10 - PS Art/Babysitting",
-      "event": "Fitness Childcare",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "08:50",
-      "duration": 265,
-      "room": "ECYF Playspace",
-      "event": "Ms. Ky's Gymnastics",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "09:00",
-      "duration": 195,
-      "room": "Cafritz Hall",
-      "event": "JxJ '26 : Seth Kibel & Lloyd Wolf Concert",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "09:00",
-      "duration": 120,
-      "room": "Kay Community Hall",
-      "event": "Seth Kibel & Lloyd Wolf Brunch",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "09:00",
-      "duration": 480,
-      "room": "Pool",
-      "event": "Kids Group Swim",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "10:00",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Barre",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "10:00",
-      "duration": 720,
-      "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "11:10",
-      "duration": 30,
-      "room": "Parenting Center",
-      "event": "Tunes 4 Tots",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "12:00",
-      "duration": 120,
-      "room": "Goldman Theater",
-      "event": "JxJ '26 : Our Bodies & Other Shames + Q&A",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "12:00",
-      "duration": 45,
-      "room": "Parenting Center",
-      "event": "Work-it Circuit",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "15:00",
-      "duration": 105,
-      "room": "Goldman Theater",
-      "event": "JxJ '26: Oxygen",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "15:30",
-      "duration": 75,
-      "room": "Cafritz Hall",
-      "event": "JxJ'26: Shorts Block",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "17:00",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Restorative Yoga",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "17:30",
-      "duration": 105,
-      "room": "Goldman Theater",
-      "event": "JxJ '26: The Road Between Us",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "19:00",
-      "duration": 105,
-      "room": "Cafritz Hall",
-      "event": "JxJ '26: Bella",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-10",
-      "time": "20:00",
-      "duration": 105,
-      "room": "Goldman Theater",
-      "event": "JxJ '26: Frontier",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "08:00",
-      "duration": 420,
-      "room": "Kay Community Hall",
-      "event": "Event Lighting Install Willow installing lights in Kay for LtL.",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "09:00",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Senior Yoga",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "09:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "Preschool Gross Motor",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "09:00",
-      "duration": 195,
-      "room": "2nd Floor Art Room",
-      "event": "Getting Ready for Preschool",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "09:30",
-      "duration": 165,
-      "room": "Polinger Meeting Room",
-      "event": "Transition to Motherhood Group",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "10:10",
-      "duration": 40,
-      "room": "Parenting Center",
-      "event": "My Grownup & Me Super Soccer Stars",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "11:00",
-      "duration": 40,
-      "room": "Parenting Center",
-      "event": "Amazing Athletes",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "13:00",
-      "duration": 45,
-      "room": "Parenting Center",
-      "event": "HIIT Cardio & Strength",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "13:00",
-      "duration": 60,
-      "room": "16th Street Conference Room",
-      "event": "Monica Meeting",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "15:00",
-      "duration": 390,
-      "room": "Kay Community Hall",
-      "event": "Literature to Life Fundraiser",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "15:00",
-      "duration": 150,
-      "room": "Parenting Center",
-      "event": "After School Karate",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Pool",
-      "event": "After School Swim",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Polinger Meeting Room",
-      "event": "After School Prek 4",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "After School (K-1st)&(2nd-5th) combined to accommodate rental Kay;",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "15:00",
-      "duration": 180,
-      "room": "16th Street Lobby",
-      "event": "After School: Musical Theater Aladdin",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "17:00",
-      "duration": 150,
-      "room": "Pool",
-      "event": "Lane 1 British Swim School",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "17:45",
-      "duration": 40,
-      "room": "Parenting Center",
-      "event": "Express Mat Pilates",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "18:00",
-      "duration": 240,
-      "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "18:30",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Body Pump",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "18:30",
-      "duration": 180,
-      "room": "Polinger Meeting Room",
-      "event": "Honeymoon Israel Alumni Learning Session",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "19:00",
-      "duration": 60,
-      "room": "Pool",
-      "event": "Adult Aqua Fitness",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "19:00",
-      "duration": 135,
-      "room": "Cafritz Hall",
-      "event": "JxJ '26: Butcher's Stain (21%) & Reception",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-11",
-      "time": "19:30",
-      "duration": 120,
-      "room": "Goldman Theater",
-      "event": "JxJ '26: The Chaplain & The Doctor",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "06:00",
-      "duration": 480,
-      "room": "Kay Community Hall",
-      "event": "HOLD",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "06:30",
-      "duration": 45,
-      "room": "Parenting Center",
-      "event": "Body Pump",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "08:30",
-      "duration": 30,
-      "room": "Parenting Center",
-      "event": "Step & Sculpt",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "09:00",
-      "duration": 60,
-      "room": "Pool",
-      "event": "Senior Aqua Fitness",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "09:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "Preschool Gross Motor",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "09:15",
-      "duration": 45,
-      "room": "Parenting Center",
-      "event": "Balance & Stability",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "09:30",
-      "duration": 90,
-      "room": "2nd Floor Art Room",
-      "event": "Preschool Playgroup",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "10:00",
-      "duration": 105,
-      "room": "Polinger Meeting Room",
-      "event": "Chair Exercise (Strong Start)",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "10:10",
-      "duration": 140,
-      "room": "Parenting Center",
-      "event": "Music Time with Ari!",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "12:45",
-      "duration": 15,
-      "room": "Parenting Center",
-      "event": "Muscle Mix",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Pool",
-      "event": "After School Swim",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Parenting Center",
-      "event": "After School Gymnastics",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Classroom 10 - PS Art/Babysitting",
-      "event": "After School Art",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Kay Community Hall",
-      "event": "After School K & 1st grade",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Polinger Meeting Room",
-      "event": "After School Prek 4",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "15:00",
-      "duration": 180,
-      "room": "Cafritz Hall",
-      "event": "After School 2nd-5th grade",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "17:00",
-      "duration": 180,
-      "room": "Pool",
-      "event": "Lane 1 British Swim School",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "18:00",
-      "duration": 165,
-      "room": "Kay Community Hall",
-      "event": "Brazilian Jiu Jitsu make",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "18:00",
-      "duration": 240,
-      "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "18:15",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Doonya Dance",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "19:00",
-      "duration": 195,
-      "room": "Cafritz Hall",
-      "event": "JxJ '26 : Labors of Love",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "19:30",
-      "duration": 60,
-      "room": "Parenting Center",
-      "event": "Vinyasa Flow",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-12",
-      "time": "19:30",
-      "duration": 90,
-      "room": "Goldman Theater",
-      "event": "JxJ '26: Raoul Wallenberg",
-      "notes": ""
-    },
-    {
       "date": "2026-05-13",
       "time": "07:30",
       "duration": 60,
@@ -1098,6 +58,14 @@
     },
     {
       "date": "2026-05-13",
+      "time": "10:30",
+      "duration": 30,
+      "room": "16th Street Conference Room",
+      "event": "Johanna Chanin",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-13",
       "time": "11:45",
       "duration": 55,
       "room": "Parenting Center",
@@ -1118,6 +86,14 @@
       "duration": 45,
       "room": "Parenting Center",
       "event": "Mat Pilates",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-13",
+      "time": "13:30",
+      "duration": 330,
+      "room": "16th Street Conference Room",
+      "event": "Theater J Workshop Rehearsal",
       "notes": ""
     },
     {
@@ -1149,7 +125,7 @@
       "time": "15:00",
       "duration": 180,
       "room": "Polinger Meeting Room",
-      "event": "After School Prek 4 Quick Turnaround",
+      "event": "After School Prek 4",
       "notes": ""
     },
     {
@@ -1165,7 +141,7 @@
       "time": "16:00",
       "duration": 60,
       "room": "Kay Community Hall",
-      "event": "After School Musical Theater: The Little Mermaid",
+      "event": "After School Theater: The Little Mermaid",
       "notes": ""
     },
     {
@@ -1213,23 +189,15 @@
       "time": "18:00",
       "duration": 240,
       "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-13",
-      "time": "18:00",
-      "duration": 240,
-      "room": "Cafritz Hall",
       "event": "JxJ '26 : Sapiro V. Ford",
       "notes": ""
     },
     {
       "date": "2026-05-13",
-      "time": "18:00",
-      "duration": 225,
+      "time": "18:15",
+      "duration": 120,
       "room": "Polinger Meeting Room",
-      "event": "Talking to Kids About Sex and Their Bodies",
+      "event": "Martha's Table Sandwich Making",
       "notes": ""
     },
     {
@@ -1330,14 +298,6 @@
     },
     {
       "date": "2026-05-14",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-14",
       "time": "10:00",
       "duration": 60,
       "room": "16th Street Conference Room",
@@ -1373,7 +333,7 @@
       "time": "12:30",
       "duration": 150,
       "room": "Kay Community Hall",
-      "event": "All Staff Meeting Moved to Kay to accommodate JxJ Film Festival (AB);",
+      "event": "All Staff Meeting",
       "notes": ""
     },
     {
@@ -1442,6 +402,14 @@
     },
     {
       "date": "2026-05-14",
+      "time": "16:25",
+      "duration": 70,
+      "room": "16th Street Conference Room",
+      "event": "Theater J Council Committee Meeting",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-14",
       "time": "17:00",
       "duration": 180,
       "room": "Pool",
@@ -1454,22 +422,6 @@
       "duration": 45,
       "room": "Parenting Center",
       "event": "Work-It Circuit",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-14",
-      "time": "18:00",
-      "duration": 165,
-      "room": "Kay Community Hall",
-      "event": "Brazilian Jiu Jitsu make",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-14",
-      "time": "18:00",
-      "duration": 240,
-      "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
       "notes": ""
     },
     {
@@ -1492,8 +444,8 @@
       "date": "2026-05-14",
       "time": "18:30",
       "duration": 180,
-      "room": "Polinger Meeting Room",
-      "event": "IPF Atid DC Panel Discussion Panel discussion event (AB)",
+      "room": "Kay Community Hall",
+      "event": "IPF Atid DC Panel Discussion",
       "notes": ""
     },
     {
@@ -1501,7 +453,7 @@
       "time": "18:30",
       "duration": 120,
       "room": "16th Street Conference Room",
-      "event": "EntryPoint Chutzpah Conversations Interest Cluster",
+      "event": "EntryPoint Chutzpah Convos Interest Cluster",
       "notes": ""
     },
     {
@@ -1509,7 +461,7 @@
       "time": "18:45",
       "duration": 45,
       "room": "Salzberg Family Library",
-      "event": "EntryPoint Night at the Movies pre-show reception",
+      "event": "EntryPoint Night at the Movies reception",
       "notes": ""
     },
     {
@@ -1621,7 +573,7 @@
       "time": "15:00",
       "duration": 180,
       "room": "Classroom 10 - PS Art/Babysitting",
-      "event": "After School Lego Robotics",
+      "event": "- PS Art/BabysittinAgfter School Lego Robotics no setup needed",
       "notes": ""
     },
     {
@@ -1701,7 +653,7 @@
       "time": "08:00",
       "duration": 330,
       "room": "Classroom 10 - PS Art/Babysitting",
-      "event": "Fitness Childcare",
+      "event": "- PS Art/BabysittinFgitness Childcare no setup needed",
       "notes": ""
     },
     {
@@ -1718,22 +670,6 @@
       "duration": 55,
       "room": "Parenting Center",
       "event": "Total Body Strength",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-16",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-16",
-      "time": "10:00",
-      "duration": 720,
-      "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
       "notes": ""
     },
     {
@@ -1805,7 +741,7 @@
       "time": "08:00",
       "duration": 330,
       "room": "Classroom 10 - PS Art/Babysitting",
-      "event": "Fitness Childcare",
+      "event": "- PS Art/BabysittinFgitness Childcare no setup needed",
       "notes": ""
     },
     {
@@ -1826,14 +762,6 @@
     },
     {
       "date": "2026-05-17",
-      "time": "09:30",
-      "duration": 765,
-      "room": "Goldman Theater",
-      "event": "HOLD JxJ Festival '26",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-17",
       "time": "10:00",
       "duration": 60,
       "room": "Parenting Center",
@@ -1846,14 +774,6 @@
       "duration": 180,
       "room": "Kay Community Hall",
       "event": "Handmade for the Homeless",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-17",
-      "time": "10:00",
-      "duration": 720,
-      "room": "Cafritz Hall",
-      "event": "HOLD JxJ Film Festival",
       "notes": ""
     },
     {
@@ -1908,7 +828,7 @@
       "date": "2026-05-17",
       "time": "16:30",
       "duration": 240,
-      "room": "Polinger Meeting Room",
+      "room": "Kay Community Hall",
       "event": "AJC",
       "notes": ""
     },
@@ -2069,7 +989,7 @@
       "time": "18:00",
       "duration": 135,
       "room": "Polinger Meeting Room",
-      "event": "RED CROSS FIRE SAFETY TRAINING",
+      "event": "Sound the Alarm with Red Cross",
       "notes": ""
     },
     {
@@ -2094,6 +1014,22 @@
       "duration": 60,
       "room": "Pool",
       "event": "Adult Aqua Fitness",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-19",
+      "time": "06:00",
+      "duration": 960,
+      "room": "16th Street Lobby",
+      "event": "HVAC Repair",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-19",
+      "time": "06:00",
+      "duration": 960,
+      "room": "HAI Class Room/Kitchen",
+      "event": "HVAC Repair",
       "notes": ""
     },
     {
@@ -2170,14 +1106,6 @@
     },
     {
       "date": "2026-05-19",
-      "time": "13:00",
-      "duration": 60,
-      "room": "16th Street Conference Room",
-      "event": "Event Rentals Dept. Meeting",
-      "notes": ""
-    },
-    {
-      "date": "2026-05-19",
       "time": "15:00",
       "duration": 180,
       "room": "Pool",
@@ -2197,7 +1125,7 @@
       "time": "15:00",
       "duration": 180,
       "room": "Classroom 10 - PS Art/Babysitting",
-      "event": "After School Art",
+      "event": "- PS Art/BabysittinAgfter School Art no setup needed",
       "notes": ""
     },
     {
@@ -2282,6 +1210,22 @@
     },
     {
       "date": "2026-05-20",
+      "time": "06:00",
+      "duration": 960,
+      "room": "16th Street Lobby",
+      "event": "HVAC Repair",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-20",
+      "time": "06:00",
+      "duration": 960,
+      "room": "HAI Class Room/Kitchen",
+      "event": "HVAC Repair",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-20",
       "time": "07:30",
       "duration": 60,
       "room": "Parenting Center",
@@ -2333,7 +1277,7 @@
       "time": "11:00",
       "duration": 120,
       "room": "Kay Community Hall",
-      "event": "Admin Hold",
+      "event": "Admin",
       "notes": ""
     },
     {
@@ -2364,8 +1308,8 @@
       "date": "2026-05-20",
       "time": "15:00",
       "duration": 180,
-      "room": "HAI Class Room/Kitchen",
-      "event": "After School Chess",
+      "room": "Classroom 10 - PS Art/Babysitting",
+      "event": "- PS Art/BabysittinAgfter School Chess no setup needed",
       "notes": ""
     },
     {
@@ -2397,7 +1341,7 @@
       "time": "16:00",
       "duration": 60,
       "room": "Kay Community Hall",
-      "event": "After School Musical Theater: The Little Mermaid",
+      "event": "After School Theater: The Little Mermaid",
       "notes": ""
     },
     {
@@ -2498,6 +1442,22 @@
     },
     {
       "date": "2026-05-21",
+      "time": "06:00",
+      "duration": 960,
+      "room": "HAI Class Room/Kitchen",
+      "event": "HVAC Repair",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-21",
+      "time": "06:00",
+      "duration": 960,
+      "room": "16th Street Lobby",
+      "event": "HVAC Repair",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-21",
       "time": "06:30",
       "duration": 45,
       "room": "Parenting Center",
@@ -2538,18 +1498,18 @@
     },
     {
       "date": "2026-05-21",
-      "time": "10:00",
-      "duration": 150,
-      "room": "Polinger Meeting Room",
-      "event": "Third Thursday Book Club board room",
+      "time": "09:30",
+      "duration": 105,
+      "room": "Kay Community Hall",
+      "event": "Yiddish Reading Group make",
       "notes": ""
     },
     {
       "date": "2026-05-21",
       "time": "10:00",
-      "duration": 60,
-      "room": "16th Street Conference Room",
-      "event": "Yiddish Reading Group",
+      "duration": 150,
+      "room": "Polinger Meeting Room",
+      "event": "Third Thursday Book Club",
       "notes": ""
     },
     {
@@ -2564,8 +1524,16 @@
       "date": "2026-05-21",
       "time": "11:00",
       "duration": 60,
-      "room": "16th Street Conference Room",
+      "room": "Salzberg Family Library",
       "event": "Weekly Schedule Meeting",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-21",
+      "time": "11:30",
+      "duration": 105,
+      "room": "Kay Community Hall",
+      "event": "Farewell Lunch with Atara and Adam",
       "notes": ""
     },
     {
@@ -2588,8 +1556,8 @@
       "date": "2026-05-21",
       "time": "15:00",
       "duration": 180,
-      "room": "HAI Class Room/Kitchen",
-      "event": "After School Mad Science",
+      "room": "Classroom 10 - PS Art/Babysitting",
+      "event": "- PS Art/BabysittinAgfter School Mad Science no setup needed",
       "notes": ""
     },
     {
@@ -2663,7 +1631,919 @@
       "room": "Parenting Center",
       "event": "Restorative Yoga",
       "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "06:00",
+      "duration": 960,
+      "room": "HAI Class Room/Kitchen",
+      "event": "HVAC Repair",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "06:00",
+      "duration": 960,
+      "room": "16th Street Lobby",
+      "event": "HVAC Repair",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "07:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Sunrise Hatha Yoga",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "09:00",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Senior Yoga",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "09:00",
+      "duration": 60,
+      "room": "Pool",
+      "event": "Senior Aqua Fitness",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "09:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Preschool Gross Motor",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "09:00",
+      "duration": 75,
+      "room": "Cafritz Hall",
+      "event": "Shabbat Sing",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "10:10",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Stroller Strides",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "12:00",
+      "duration": 180,
+      "room": "Q Street Lobby",
+      "event": "Mahjong",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "15:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Mat Pilates",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "17:00",
+      "duration": 180,
+      "room": "Pool",
+      "event": "Lane 1 British Swim School",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "18:00",
+      "duration": 240,
+      "room": "Kay Community Hall",
+      "event": "Bet Mish Erev Shabbat Service",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "19:00",
+      "duration": 45,
+      "room": "Salzberg Family Library",
+      "event": "Bet Mish Pre-Shabbat Holding Space",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-22",
+      "time": "19:30",
+      "duration": 240,
+      "room": "Cafritz Hall",
+      "event": "DC Minyan Shavuot Farbgrengen",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "time": "08:00",
+      "duration": 330,
+      "room": "Classroom 10 - PS Art/Babysitting",
+      "event": "- PS Art/BabysittinFgitness Childcare no setup needed",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "time": "09:00",
+      "duration": 270,
+      "room": "Kay Community Hall",
+      "event": "Bet Mish Shabbat Morning Service",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "time": "09:30",
+      "duration": 55,
+      "room": "Parenting Center",
+      "event": "Total Body Strength",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "time": "10:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Zumba",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "time": "11:15",
+      "duration": 195,
+      "room": "Cafritz Hall",
+      "event": "Brazilian Jiu Jitsu",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "time": "11:40",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Flow Yoga",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-23",
+      "time": "12:00",
+      "duration": 360,
+      "room": "HAI Class Room/Kitchen",
+      "event": "Feed the People",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-24",
+      "time": "08:00",
+      "duration": 330,
+      "room": "Classroom 10 - PS Art/Babysitting",
+      "event": "- PS Art/BabysittinFgitness Childcare no setup needed",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-24",
+      "time": "10:00",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Barre",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-24",
+      "time": "12:00",
+      "duration": 45,
+      "room": "Parenting Center",
+      "event": "Work-it Circuit",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-24",
+      "time": "17:00",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Restorative Yoga",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-25",
+      "time": "08:15",
+      "duration": 795,
+      "room": "Goldman Theater",
+      "event": "Theater J: Festival of Firsts and Favorites",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-25",
+      "time": "09:00",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Senior Yoga",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-25",
+      "time": "13:00",
+      "duration": 45,
+      "room": "Parenting Center",
+      "event": "HIIT Cardio & Strength",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-25",
+      "time": "17:45",
+      "duration": 40,
+      "room": "Parenting Center",
+      "event": "Express Mat Pilates",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-25",
+      "time": "18:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Brazilian Jiu Jitsu",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-25",
+      "time": "18:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Body Pump",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-25",
+      "time": "19:00",
+      "duration": 60,
+      "room": "Pool",
+      "event": "Adult Aqua Fitness",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "06:30",
+      "duration": 45,
+      "room": "Parenting Center",
+      "event": "Body Pump",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "08:15",
+      "duration": 795,
+      "room": "Goldman Theater",
+      "event": "Theater J: Festival of Firsts and Favorites",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "08:30",
+      "duration": 30,
+      "room": "Parenting Center",
+      "event": "Step & Sculpt",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "09:00",
+      "duration": 60,
+      "room": "Pool",
+      "event": "Senior Aqua Fitness",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "09:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Preschool Gross Motor",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "09:15",
+      "duration": 45,
+      "room": "Parenting Center",
+      "event": "Balance & Stability",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "09:30",
+      "duration": 90,
+      "room": "2nd Floor Art Room",
+      "event": "Preschool Playgroup",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "10:00",
+      "duration": 105,
+      "room": "Polinger Meeting Room",
+      "event": "Chair Exercise (Strong Start)",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "10:10",
+      "duration": 140,
+      "room": "Parenting Center",
+      "event": "Music Time with Ari!",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "12:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Theater J Light Hang",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "12:30",
+      "duration": 165,
+      "room": "Kay Community Hall",
+      "event": "Programmer's Meeting Make",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "12:45",
+      "duration": 15,
+      "room": "Parenting Center",
+      "event": "Muscle Mix",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "13:00",
+      "duration": 120,
+      "room": "Salzberg Family Library",
+      "event": "Programmer's Meeting",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Pool",
+      "event": "After School Swim",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Parenting Center",
+      "event": "After School Gymnastics",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Classroom 10 - PS Art/Babysitting",
+      "event": "- PS Art/BabysittinAgfter School Art no setup needed",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Polinger Meeting Room",
+      "event": "After School Prek 4",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "After School (K-1st)&(2nd-5th) accommodating for Board Meeting;",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "16:30",
+      "duration": 285,
+      "room": "Kay Community Hall",
+      "event": "Board Meeting",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "17:00",
+      "duration": 180,
+      "room": "Pool",
+      "event": "Lane 1 British Swim School",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "18:00",
+      "duration": 180,
+      "room": "HAI Class Room/Kitchen",
+      "event": "EntryPoint Air-Dry Pottery Interest Cluster",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "18:00",
+      "duration": 75,
+      "room": "Cafritz Hall",
+      "event": "Doonya Super Class!",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-26",
+      "time": "19:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Vinyasa Flow",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "07:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Sunrise Hatha Yoga",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "07:30",
+      "duration": 465,
+      "room": "Kay Community Hall",
+      "event": "Theater J: Centennial Series Rehearsal Quick Strike",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "08:00",
+      "duration": 840,
+      "room": "Goldman Theater",
+      "event": "Theater J: Centennial Series Rehearsal",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "08:30",
+      "duration": 30,
+      "room": "Parenting Center",
+      "event": "Express Body Sculpt",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "09:00",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Stretch & Strength",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "09:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Preschool Gross Motor",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "09:45",
+      "duration": 90,
+      "room": "Polinger Meeting Room",
+      "event": "Gentle Cardio",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "10:10",
+      "duration": 90,
+      "room": "Parenting Center",
+      "event": "Movement Playgroup with Ms. Nina",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "11:45",
+      "duration": 55,
+      "room": "Parenting Center",
+      "event": "Zumba",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "12:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Theater J Light Hang",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "13:00",
+      "duration": 45,
+      "room": "Parenting Center",
+      "event": "Mat Pilates",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Pool",
+      "event": "After School Swim",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "15:00",
+      "duration": 180,
+      "room": "HAI Class Room/Kitchen",
+      "event": "After School Chess",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Kay Community Hall",
+      "event": "After School K & 1st grade",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Polinger Meeting Room",
+      "event": "After School Prek 4",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "After School 2nd-5th grade",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "16:00",
+      "duration": 60,
+      "room": "Kay Community Hall",
+      "event": "After School Musical Theater: The Little MerCmoanifdlicted",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "16:10",
+      "duration": 40,
+      "room": "Parenting Center",
+      "event": "Ballet Level II/Intro to Tap",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "17:00",
+      "duration": 40,
+      "room": "Parenting Center",
+      "event": "Ballet I",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "17:30",
+      "duration": 180,
+      "room": "Kay Community Hall",
+      "event": "HOLD- ADL Community Briefing Conflicted overlap with Afterschool??? (AB)",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "17:30",
+      "duration": 90,
+      "room": "Pool",
+      "event": "Lane 1 British Swim School",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "17:30",
+      "duration": 240,
+      "room": "16th Street Lobby",
+      "event": "EntryPoint Mahjong DC Interest Cluster",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "17:45",
+      "duration": 40,
+      "room": "Parenting Center",
+      "event": "Express Mat Pilates",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "18:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Brazilian Jiu Jitsu",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "18:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Body Pump",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "18:30",
+      "duration": 120,
+      "room": "Salzberg Family Library",
+      "event": "EntryPoint Book Club Interest Cluster",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "19:00",
+      "duration": 60,
+      "room": "Pool",
+      "event": "Adult Aqua Fitness",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "19:00",
+      "duration": 150,
+      "room": "ECYF Playspace",
+      "event": "Art Stream: Pop Star Playbook",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "19:00",
+      "duration": 150,
+      "room": "ECYF 4th Floor Lobby",
+      "event": "Art Stream: Pop Star Playbook",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-27",
+      "time": "19:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Barre",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "06:30",
+      "duration": 45,
+      "room": "Parenting Center",
+      "event": "Body Pump",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "07:30",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Stability Ball Class",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "07:30",
+      "duration": 465,
+      "room": "Kay Community Hall",
+      "event": "Theater J: Centennial Reading Series RehearQsaulick Strike",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "08:00",
+      "duration": 840,
+      "room": "Goldman Theater",
+      "event": "Theater J Centennial Reading Series",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "08:30",
+      "duration": 405,
+      "room": "Polinger Meeting Room",
+      "event": "Centennial Reading Series Rehearsal Quick Strike",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "09:00",
+      "duration": 60,
+      "room": "Pool",
+      "event": "Senior Aqua Fitness",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "09:00",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Senior Yoga",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "09:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Preschool Gross Motor",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "09:30",
+      "duration": 90,
+      "room": "2nd Floor Art Room",
+      "event": "Preschool Playgroup",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "09:45",
+      "duration": 120,
+      "room": "Salzberg Family Library",
+      "event": "New Parent Coffee",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "10:00",
+      "duration": 60,
+      "room": "16th Street Conference Room",
+      "event": "Yiddish Reading Group",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "10:10",
+      "duration": 90,
+      "room": "Parenting Center",
+      "event": "Makin' Music with Ms. Michelle",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "11:00",
+      "duration": 60,
+      "room": "16th Street Conference Room",
+      "event": "Weekly Schedule Meeting",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "14:00",
+      "duration": 90,
+      "room": "16th Street Conference Room",
+      "event": "Street Sense Meeting",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "15:00",
+      "duration": 60,
+      "room": "16th Street Conference Room",
+      "event": "Theater J Operations Meeting",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Pool",
+      "event": "After School Swim",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "15:00",
+      "duration": 180,
+      "room": "HAI Class Room/Kitchen",
+      "event": "After School Mad Science",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Kay Community Hall",
+      "event": "After School K & 1st grade",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Polinger Meeting Room",
+      "event": "After School Prek 4",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "After School 2nd-5th grade",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "15:00",
+      "duration": 180,
+      "room": "Parenting Center",
+      "event": "After School: Ballet",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "17:00",
+      "duration": 180,
+      "room": "Pool",
+      "event": "Lane 1 British Swim School",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "17:00",
+      "duration": 210,
+      "room": "16th Street Conference Room",
+      "event": "Hebrew Classes",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "18:00",
+      "duration": 180,
+      "room": "Kay Community Hall",
+      "event": "Brazilian Jiu Jitsu",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "18:00",
+      "duration": 45,
+      "room": "Parenting Center",
+      "event": "Work-It Circuit",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "18:00",
+      "duration": 180,
+      "room": "Cafritz Hall",
+      "event": "Capital J Mainstage: David Wallace-Wells",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "18:00",
+      "duration": 180,
+      "room": "HAI Class Room/Kitchen",
+      "event": "Giving Back Circle",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "18:30",
+      "duration": 165,
+      "room": "16th Street Lobby",
+      "event": "Capital J Mainstage Reception",
+      "notes": ""
+    },
+    {
+      "date": "2026-05-28",
+      "time": "19:00",
+      "duration": 60,
+      "room": "Parenting Center",
+      "event": "Restorative Yoga",
+      "notes": ""
     }
   ],
-  "lastUpdated": "Thursday, May 07, 2026 at 01:24 PM"
+  "lastUpdated": "Friday, May 15, 2026 at 01:27 AM"
 }
